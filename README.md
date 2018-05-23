@@ -11,4 +11,4 @@ Run Battleship :
 		- javac fr/battleship/*.java
 		
 	To run the game: java abadie.aubin.Battleship
-	To run the test: javac fr.battleship.TestIA.java
+	To run the test: javac fr.battleship.TestIA
